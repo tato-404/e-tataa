@@ -1,16 +1,20 @@
-### Hi there 👋
+# 👋 Olá, me chamo Otavio
 
-<!--
-**e-tataa/e-tataa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia da Computação  
+💻 Interessado em desenvolvimento web e tecnologia  
+🚀 Buscando minha primeira oportunidade em TI  
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias
+- HTML
+- CSS
+- JavaScript
+- Python
+- Git e GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projetos
+- 🔗 Blog Web: https://SEU-LINK-NETLIFY
+- 🔗 Login Responsivo: https://SEU-LINK-NETLIFY
+
+## 📫 Contato
+- Email: y.tataa002@gmail.com
+- LinkedIn: https://www.linkedin.com/in/tavio404/
