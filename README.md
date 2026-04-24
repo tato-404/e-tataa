@@ -12,8 +12,8 @@
 - Git e GitHub
 
 ## 📂 Projetos
-- 🔗 Blog Web: https://SEU-LINK-NETLIFY
-- 🔗 Login Responsivo: https://SEU-LINK-NETLIFY
+- 🔗 Blog Web: https://tst-blog-web.netlify.app/
+- 🔗 Login Responsivo: https://tst-responsive-login.netlify.app/
 
 ## 📫 Contato
 - Email: y.tataa002@gmail.com
